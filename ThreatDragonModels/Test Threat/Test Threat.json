@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Threat",
+    "owner": "Paresh",
+    "description": "Java application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Paresh"
+  }
+}
